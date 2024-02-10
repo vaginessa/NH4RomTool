@@ -20,7 +20,7 @@ Free Rom Unpack and Repack tool on windows!!!
 :: Set up the python operating environment
 utils.bat pysetup
 :: Run the main interface
-pythonui.py
+python ui.py
 ```
     
 Looking forward to more big guys joining :blush:
